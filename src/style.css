@@ -1,1 +1,26 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+h1 {
+  font-weight: bold;
+  margin: auto;
+  text-align: center;
+  margin-top: 5%;
+}
+
+/* root {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+} */
+
+:root {
+  margin-top: 0px;
+  margin: auto;
+  text-align: center;
+}
+
+body {
+  background-color: white;
+}
